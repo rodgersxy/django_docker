@@ -21,9 +21,7 @@ You must have [Python3](https://www.python.org/downloads/) and [pip](https://pyp
 git clone https://github.com/<username>/django-todo-app
 ```
 
-- [Follow the tutorial](https://betterstack.com/community/guides/scaling-python/dockerize-django/) to learn how to deploy the application using Docker.
-
-- See the [docker](https://github.com/betterstack-community/django-todo-app/tree/docker) branch for the final code.
+- [Follow the tutorial] https://betterstack.com/community/guides/scaling-python/dockerize-django/#step-1-installing-docker-locally   
 
 ## ⚖ License
 
