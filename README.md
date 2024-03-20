@@ -2,7 +2,6 @@
 
 ## Link:   http://127.0.0.1:8000/  
 
-**Tutorial**: [Deploying Django Apps with Docker: A Step-by-Step Guide](https://betterstack.com/community/guides/scaling-python/dockerize-django/)
 
 ![Django todo app screenshot](screenshot.png)
 
